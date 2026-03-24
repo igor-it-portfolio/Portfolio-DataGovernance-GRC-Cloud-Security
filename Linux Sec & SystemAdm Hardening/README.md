@@ -1,33 +1,47 @@
-# Linux System Administration Projects
+# 🐧 Linux Security & System Hardening
 
-# Linux & System Administration Projects
+Este repositório agrupa projetos práticos focados em administração segura de sistemas Linux, automação de segurança e conformidade de servidores.
+*This section groups hands-on projects focused on secure Linux administration, security automation, and server compliance.*
 
-This section groups hands-on projects related to Linux system administration, security, automation and monitoring.
+---
 
-## 🔗 Repositories
+## 🚀 Repositories / Repositórios Técnicos
 
-  🔐 **Linux Security Hardening**
-  👉 https://github.com/igor-it-portfolio/sysadmin-lab-linux-security
+### 🛡️ **Hardening & Security Frameworks**
+* **ShieldLinux: Hardening Framework & Secure Deploy**
+    👉 [Access Repository](https://github.com/igor-it-portfolio/shieldlinux-hardening)
+    *Foco: Automação de segurança e endurecimento de sistemas (Hardening).*
 
-  🛡️ **ShieldLinux: Hardening Framework & Secure Deploy**
-  👉 https://github.com/igor-it-portfolio/shieldlinux-hardening
+* **Linux Security Hardening Lab**
+    👉 [Access Repository](https://github.com/igor-it-portfolio/sysadmin-lab-linux-security)
+    *Foco: Configurações de SSH seguro, Firewall (UFW/Iptables) e auditoria.*
 
-  🌐 **Secure Web Server with HTTPS**
-  👉 https://github.com/igor-it-portfolio/sysadmin-lab-webserver-https
-  
-  🌐 **Web Incident Response Runbook**
-  👉 https://github.com/igor-it-portfolio/Runbook-Incidentes-WEB.md
+### 🌐 **Secure Web & Incident Response**
+* **Web Incident Response Runbook**
+    👉 [Access File](https://github.com/igor-it-portfolio/Runbook-Incidentes-WEB.md)
+    *Foco: Guia estratégico de resposta a incidentes em servidores web.*
 
-  💾 **Backup Automation & Retention Policy (Linux & Cloud)**
-  👉 https://github.com/igor-it-portfolio/sysadmin-lab-backup-automation
+* **Secure Web Server with HTTPS**
+    👉 [Access Repository](https://github.com/igor-it-portfolio/sysadmin-lab-webserver-https)
+    *Foco: Implementação de SSL/TLS e proteção de aplicações web.*
 
-  ⚙️ **SysAdmin Bash Maintenance & Monitoring Framework**
-  👉https://github.com/igor-it-portfolio/bash-maintenance-monitor
+### ⚙️ **Automation & Continuity**
+* **Backup Automation & Retention Policy (Linux & Cloud)**
+    👉 [Access Repository](https://github.com/igor-it-portfolio/sysadmin-lab-backup-automation)
+    *Foco: Scripts de backup e políticas de retenção de dados críticos.*
 
+* **SysAdmin Bash Maintenance & Monitoring Framework**
+    👉 [Access Repository](https://github.com/igor-it-portfolio/bash-maintenance-monitor)
+    *Foco: Automação de tarefas rotineiras e monitoramento de integridade via Bash.*
 
-## Topics covered
-- Linux administration (Ubuntu)
-- SSH hardening and firewall
-- Backup and recovery
-- Monitoring and automation
+---
 
+## 🛠️ Technical Focus / Foco Técnico
+- **OS Hardening:** Ubuntu/Debian security best practices.
+- **Identity & Access:** SSH Keys management and sudoers policy.
+- **Data Protection:** Backup scripts and disaster recovery.
+- **Security Compliance:** Audit logs and system monitoring.
+
+---
+
+[⬅️ Back to Central Hub](../)
