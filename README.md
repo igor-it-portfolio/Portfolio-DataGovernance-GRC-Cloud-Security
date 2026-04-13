@@ -15,7 +15,7 @@ Este é o meu hub central de Governança de Dados, GRC e Segurança em Nuvem. Aq
 
 ## 🚀 Specialized Portfolio Areas
 
-### 📂 [1. GRC, Data Governance & Privacy](./GRC%20%26%20Compliance%20Frameworks)
+### 📂 [1. GRC, Data Governance & Privacy](./https://github.com/igor-it-portfolio/Portfolio-DataGovernance-GRC-Cloud-Security/tree/main/1.GRC%2C%20Data%20Governance%20%26%20Privacy)
 **PT-BR:** Gestão de Riscos, Auditoria, ISO 27001 e conformidade LGPD aplicadas à infraestrutura.
 **EN:** Risk Management, Auditing, ISO 27001, and LGPD/GDPR compliance applied to infrastructure.
 
