@@ -7,14 +7,6 @@ Este repositório é o pilar estratégico do meu portfólio. Aqui demonstro a ap
 This repository is the strategic pillar of my portfolio. Here I demonstrate the practical application of international frameworks (ISO 27001, NIST), risk management, and regulatory compliance (LGPD/GDPR) for critical data environments. My focus is to ensure that technical security is aligned with business objectives and legal requirements.
 
 ---
-
-### 🎯 Key Focus Areas / Áreas de Foco:
-
-* **Data Lifecycle Governance:** Management from collection to secure disposal.
-* **Risk Assessment:** Identification and mitigation based on ISO 27005.
-* **Compliance Auditing:** Checklists and evidence for regulatory standards.
-* **Privacy by Design:** Implementing LGPD requirements into technical workflows.
----
 ## 🚀 Upcoming Projects & Documentation / Projetos em Desenvolvimento
 
 ### 📋 **Governance,Risk,Compliance** 
@@ -26,7 +18,6 @@ This repository is the strategic pillar of my portfolio. Here I demonstrate the 
   *Foco: Implementação de conformidade LGPD/GDPR, gestão de dados sensíveis e governança aplicada a ambientes Cloud.*
 
  
-
 ---
 
 ## 🛠️ Expertise / Domínios de Conhecimento
@@ -34,8 +25,15 @@ This repository is the strategic pillar of my portfolio. Here I demonstrate the 
 - **LGPD:** Lei Geral de Proteção de Dados (Brasil).
 - **NIST CSF:** Cybersecurity Framework para identificação e resposta.
 - **Data Lifecycle:** Do ciclo de vida do documento físico à governança em nuvem.
+- 
+### 🎯 Key Focus Areas / Áreas de Foco:
 
+* **Data Lifecycle Governance:** Management from collection to secure disposal.
+* **Risk Assessment:** Identification and mitigation based on ISO 27005.
+* **Compliance Auditing:** Checklists and evidence for regulatory standards.
+* **Privacy by Design:** Implementing LGPD requirements into technical workflows.
 ---
+
 
 ## 🎯 Strategic Objective / Objetivo Estratégico
 **EN:** To bridge the gap between traditional Records Management and Modern Cloud Governance, ensuring that technical implementations are always backed by solid compliance and risk management frameworks.
