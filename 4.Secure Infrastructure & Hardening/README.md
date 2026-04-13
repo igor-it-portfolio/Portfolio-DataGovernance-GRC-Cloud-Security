@@ -8,13 +8,6 @@ This repository groups hands-on projects focused on secure Linux administration 
 
 ---
 
-### 🔐 System Integrity / Integridade do Sistema:
-
-* **OS Hardening:** Implementation of security benchmarks (CIS/NIST) for Linux servers.
-* **Security Automation:** Bash scripting for automated auditing and patch management.
-* **Access Control:** Secure SSH configuration, Sudoers policies, and File System permissions.
-* **Vulnerability Management:** Tools and techniques for scanning and remediating OS-level risks.
-
 ## 🚀 Repositories / Repositórios Técnicos
 
 ### 🛡️ **Hardening & Security Frameworks**
@@ -43,6 +36,15 @@ This repository groups hands-on projects focused on secure Linux administration 
 * **SysAdmin Bash Maintenance & Monitoring Framework**
     👉 [Access Repository](https://github.com/igor-it-portfolio/bash-maintenance-monitor)
     *Foco: Automação de tarefas rotineiras e monitoramento de integridade via Bash.*
+
+---
+
+  ### 🔐 System Integrity / Integridade do Sistema:
+
+* **OS Hardening:** Implementation of security benchmarks (CIS/NIST) for Linux servers.
+* **Security Automation:** Bash scripting for automated auditing and patch management.
+* **Access Control:** Secure SSH configuration, Sudoers policies, and File System permissions.
+* **Vulnerability Management:** Tools and techniques for scanning and remediating OS-level risks.
 
 
 ---
