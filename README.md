@@ -9,19 +9,19 @@ Este é o meu hub central de projetos técnicos. Aqui demonstro a aplicação pr
 
 ## 🚀 Specialized Portfolio Areas
 
-### 📂 [1. GRC & Compliance Frameworks](./GRC%20%26%20Compliance%20Frameworks)
+### 📂 [1. GRC, Data Governance & Privacy](./GRC%20%26%20Compliance%20Frameworks)
 **PT-BR:** Gestão de Riscos, Auditoria, ISO 27001 e conformidade LGPD aplicadas à infraestrutura.
 **EN:** Risk Management, Auditing, ISO 27001, and LGPD/GDPR compliance applied to infrastructure.
 
-### 📂 [2. IAM Analyst & Cloud Security](./IAM%20Analyst%20%26%20Cloud%20Security)
+### 📂 [2. Identity Governance & Cloud Security](./IAM%20Analyst%20%26%20Cloud%20Security)
 **PT-BR:** Gestão de Identidades, Privilégio Mínimo, Políticas de Acesso e Criptografia (KMS).
 **EN:** Identity & Access Management, Least Privilege, Access Policies, and Encryption (KMS).
 
-### 📂 [3. Security Observability & SRE](./Security%20Observability%20%26%20SRE)
+### 📂 [3. Compliance Observability & SRE](./Security%20Observability%20%26%20SRE)
 **PT-BR:** Monitoramento de segurança, Dashboards de conformidade e detecção de incidentes.
 **EN:** Security monitoring, Compliance Dashboards, and incident detection.
 
-### 📂 [4. Linux Sec & SystemAdm Hardening](./Linux%20Sec%20%26%20SystemAdm%20Hardening)
+### 📂 [4. Secure Infrastructure Hardening](./Linux%20Sec%20%26%20SystemAdm%20Hardening)
 **PT-BR:** Administração segura de servidores Linux, automação Bash e endurecimento de sistemas.
 **EN:** Secure Linux administration, Bash automation, and OS hardening.
 
@@ -30,9 +30,9 @@ Este é o meu hub central de projetos técnicos. Aqui demonstro a aplicação pr
 
 ## 🎯 Objective / Objetivo
 
-**EN:** To demonstrate professional expertise in **Cloud Governance** and **IAM**, bridging the gap between corporate records management and modern cloud security architectures. Focused on remote roles and high-level security consulting.
+**EN:** To demonstrate professional expertise in **GRC, Cloud Governance** and **IAM**, bridging the gap between corporate records management and modern cloud security architectures. Focused on remote roles and high-level security consulting.
 
-**PT-BR:** Demonstrar expertise profissional em **Governança de Nuvem** e **IAM**, unindo a experiência em gestão de ativos críticos com arquiteturas modernas de segurança em nuvem. Focado em posições remotas e consultoria de segurança de alto nível.
+**PT-BR:** Demonstrar expertise profissional em **GRC, Governança de Nuvem** e **IAM**, unindo a experiência em gestão de ativos críticos com arquiteturas modernas de segurança em nuvem. Focado em posições remotas e consultoria de segurança de alto nível.
 
 ---
 
