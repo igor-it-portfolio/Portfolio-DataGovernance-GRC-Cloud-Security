@@ -1,9 +1,15 @@
-# 📂 Portfolio: Cloud Security, GRC & IAM Hub
+# 📂 Portfolio: Data Governance, GRC & Cloud Security
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloud Security](https://img.shields.io/badge/Cloud%20Security-%23000000.svg?style=for-the-badge&logo=securityscorecard&logoColor=white) ![IAM](https://img.shields.io/badge/IAM%20Expert-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GRC](https://img.shields.io/badge/GRC%20Compliance-%23005A9C.svg?style=for-the-badge&logo=data-analytics&logoColor=white)
 
-Este é o meu hub central de projetos técnicos. Aqui demonstro a aplicação prática de segurança, governança e gestão de identidades em ambientes Cloud.
-*This is my central technical hub. Here I demonstrate the practical application of security, governance, and identity management in Cloud environments.*
+## 🛡️ Hub Central
+### 🇺🇸 English Version:
+
+This is my central technical hub for Data Governance, GRC, and Cloud Security. Here, I demonstrate how to translate regulatory requirements (LGPD/ISO 27001) into practical cloud infrastructure. My projects focus on the entire Data Lifecycle, ensuring integrity and compliance through Identity Governance (IAM), Security Observability, and Automated Hardening.
+
+### 🇧🇷 Versão em Português:
+
+Este é o meu hub central de Governança de Dados, GRC e Segurança em Nuvem. Aqui, demonstro como traduzir requisitos regulatórios (LGPD/ISO 27001) em infraestrutura prática na nuvem. Meus projetos focam em todo o Ciclo de Vida do Dado, garantindo integridade e conformidade através de Governança de Identidades (IAM), Observabilidade de Segurança e Hardening Automatizado.
 
 ---
 
