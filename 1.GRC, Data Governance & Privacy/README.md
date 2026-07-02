@@ -11,12 +11,14 @@ This repository is the strategic pillar of my portfolio. Here I demonstrate the 
 
 ### 📋 **Governance,Risk,Compliance** 
 
-**Cloud Compliance Sentinel Monitoramento e Auditoria Contínua**👉 [[Acesse o Repositório]](https://github.com/Igor-Pantoja/cloud-compliance-sentinel)
+**Cloud Compliance Sentinel Monitoramento e Auditoria Contínua GRC**👉 [[Acesse o Repositório]](https://github.com/Igor-Pantoja/cloud-compliance-sentinel)
  *Foco: é um ecossistema automatizado de Governança, Riscos, Conformidade (GRC) e Infraestrutura como Código (IaC). O objetivo central do projeto é realizar o mapeamento contínuo de vulnerabilidades de configuração em ambientes AWS, aplicando remediações automáticas e imutáveis em conformidade estrita com a **LGPD (Lei Geral de Proteção de Dados)** e os controles de segurança da **ISO/IEC 27001**.*
  
-**EDCF - Data Custody & Compliance Framework (WORM)** 👉 [[Acesse o Repositório]](https://github.com/igor-it-portfolio/edcf-aws-terraform-compliance)
+ 
+### 📋 **DATA GOVERNANCE & Privacy** 
+ **EDCF - Data Custody & Compliance Framework (WORM)** 👉 [[Acesse o Repositório]](https://github.com/igor-it-portfolio/edcf-aws-terraform-compliance)
  *Foco: Framework de governança para migração de ativos físicos para digital, assegurando imutabilidade de dados (WORM), retenção normativa e proteção contra descarte não autorizado em   conformidade com a LGPD.*
-
+ 
  **Data Governance & Cloud Foundations**👉[Access Repository](https://github.com/igor-it-portfolio/data-governance-cloud-foundations-Project1)  
   *Foco: Implementação de conformidade LGPD/GDPR, gestão de dados sensíveis e governança aplicada a ambientes Cloud.*
  
@@ -27,7 +29,7 @@ This repository is the strategic pillar of my portfolio. Here I demonstrate the 
 - **LGPD:** Lei Geral de Proteção de Dados (Brasil).
 - **NIST CSF:** Cybersecurity Framework para identificação e resposta.
 - **Data Lifecycle:** Do ciclo de vida do documento físico à governança em nuvem.
-- 
+  
 ### 🎯 Key Focus Areas / Áreas de Foco:
 
 * **Data Lifecycle Governance:** Management from collection to secure disposal.
