@@ -1,10 +1,10 @@
 # 🛡️ GRC, Data Governance & Privacy Frameworks
 
 **PT-BR:**
-Este repositório é o pilar estratégico do meu portfólio. Aqui demonstro a aplicação prática de frameworks internacionais (ISO 27001, NIST), gestão de riscos e conformidade regulatória (LGPD/GDPR) para ambientes de dados críticos. Meu foco é garantir que a segurança tecnológica esteja alinhada aos objetivos de negócio e requisitos legais.
+Este repositório é o pilar estratégico do meu portfólio. Aqui demonstro a aplicação prática e a liderança de frameworks internacionais (ISO 27001, ISO 27701, NIST), gestão de riscos (ISO 27005), qualidade e governança de dados, além de conformidade regulatória (LGPD/GDPR) para ambientes de dados complexos. Meu foco como profissional sênior é conectar a governança técnica e a análise de dados aos objetivos de negócio, mitigando vulnerabilidades e transformando requisitos legais em eficiência operacional e decisões seguras.
 
-**EN:**'
-This repository is the strategic pillar of my portfolio. Here I demonstrate the practical application of international frameworks (ISO 27001, NIST), risk management, and regulatory compliance (LGPD/GDPR) for critical data environments. My focus is to ensure that technical security is aligned with business objectives and legal requirements.
+**EN:**
+This repository is the strategic pillar of my portfolio. Here I demonstrate the practical application and leadership of international frameworks (ISO 27001, ISO 27701, NIST), risk assessment (ISO 27005), data quality, data governance, and regulatory compliance (LGPD/GDPR) for complex data environments. As a senior professional, my focus is to bridge the gap between technical data governance, analytics, and business objectives, mitigating vulnerabilities and transforming legal requirements into operational efficiency and secure decision-making.
 
 ---
 ## 🚀 Upcoming Projects & Documentation / Projetos em Desenvolvimento
