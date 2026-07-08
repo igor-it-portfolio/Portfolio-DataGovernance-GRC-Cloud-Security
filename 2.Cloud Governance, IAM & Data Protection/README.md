@@ -25,7 +25,12 @@ The goal is to demonstrate how security and governance controls ensure that ente
 ### 🛡️ **Identity & Infrastructure Security**
  ☁️ **AWS Cloud Governance Blueprint**
 👉 [Access Repository](https://github.com/igor-it-portfolio/aws-secure-governance-blueprint)
-**Foco:** Framework de Governança em Nuvem aplicado a ambientes AWS, demonstrando organização de recursos, controles de acesso, políticas de segurança e práticas de conformidade para suportar ambientes de dados confiáveis e protegidos..
+**Foco:** Framework de Governança em Nuvem aplicado a ambientes AWS, demonstrando organização de recursos, controles de acesso, políticas de segurança e práticas de conformidade para suportar ambientes de dados confiáveis e protegidos.
+
+☁️ **Cloud Compliance Sentinel — Continuous Cloud Governance & Compliance Monitoring**
+👉 [Acesse o Repositório](https://github.com/Igor-Pantoja/cloud-compliance-sentinel)
+**Foco:** Plataforma de Governança e Compliance contínuo para ambientes AWS, combinando automação, Infrastructure as Code (IaC), monitoramento de controles e validação de conformidade.
+O projeto demonstra como aplicar práticas de **Cloud Governance, Data Protection e Compliance Management**, realizando avaliações contínuas de configurações, identificação de desvios e aplicação de controles alinhados à **LGPD e ISO/IEC 27001**.
 
 ⚙️ **Terraform AWS Governance Automation**
 👉 [Access Repository](https://github.com/igor-it-portfolio/terraform-aws-automation)
