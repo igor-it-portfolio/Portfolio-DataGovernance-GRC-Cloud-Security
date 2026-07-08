@@ -42,12 +42,15 @@ These projects represent the technical layer required to understand, protect, an
 
 ---
 
-### 🔐 System Integrity & Auditing / Integridade do Sistema & Auditoria:
+### 🔐 Technical Controls & System Reliability / Controles Técnicos & Confiabilidade:
 
-* **Infrastructure Hardening:** Implementation of security benchmarks (CIS/NIST) to protect data environments and servers.
-* **Compliance Automation:** Bash scripting for automated compliance auditing, log collection, and configuration checks.
-* **Access Control & Permissions:** Secure SSH configuration, strict Sudoers policies, and File System permissions to protect critical information assets (ECM/GED).
-* **Vulnerability Assessment:** Identifying, scanning, and mitigating risks at the infrastructure level to prevent data leakage.
+* **Infrastructure Security Baselines:** Implementation of security standards, hardening practices, and configuration baselines to support reliable and controlled technical environments.
+
+* **Automation & Operational Auditing:** Use of Bash scripting and automation to perform system checks, collect operational information, and improve monitoring processes.
+
+* **Access Management & System Controls:** Secure configuration of SSH access, permission management, privilege controls, and protection of critical system resources.
+
+* **Infrastructure Reliability & Risk Reduction:** Identification of configuration issues and operational risks to improve system stability, security, and availability.
 
 
 ---
