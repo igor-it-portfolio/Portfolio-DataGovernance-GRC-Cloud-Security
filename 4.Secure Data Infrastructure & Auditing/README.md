@@ -37,6 +37,11 @@ This repository groups hands-on projects focused on data infrastructure security
     👉 [Access Repository](https://github.com/igor-it-portfolio/bash-maintenance-monitor)
     *Foco: Automação de tarefas rotineiras e monitoramento de integridade via Bash.*
 
+**Cloud Compliance Sentinel Monitoramento e Auditoria Contínua GRC**👉 [[Acesse o Repositório]](https://github.com/Igor-Pantoja/cloud-compliance-sentinel)
+ *Foco: é um ecossistema automatizado de Governança, Riscos, Conformidade (GRC) e Infraestrutura como Código (IaC). O objetivo central do projeto é realizar o mapeamento contínuo de vulnerabilidades de configuração em ambientes AWS, aplicando remediações automáticas e imutáveis em conformidade estrita com a **LGPD (Lei Geral de Proteção de Dados)** e os controles de segurança da **ISO/IEC 27001**.*
+
+  **Data Governance & Cloud Foundations**👉[Access Repository](https://github.com/igor-it-portfolio/data-governance-cloud-foundations-Project1)  
+  *Foco: Implementação de conformidade LGPD/GDPR, gestão de dados sensíveis e governança aplicada a ambientes Cloud.*
 ---
 
 ### 🔐 System Integrity & Auditing / Integridade do Sistema & Auditoria:
