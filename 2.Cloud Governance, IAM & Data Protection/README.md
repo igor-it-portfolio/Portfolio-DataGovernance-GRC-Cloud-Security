@@ -32,6 +32,10 @@ The goal is to demonstrate how security and governance controls ensure that ente
 **Foco:** Plataforma de Governança e Compliance contínuo para ambientes AWS, combinando automação, Infrastructure as Code (IaC), monitoramento de controles e validação de conformidade.
 O projeto demonstra como aplicar práticas de **Cloud Governance, Data Protection e Compliance Management**, realizando avaliações contínuas de configurações, identificação de desvios e aplicação de controles alinhados à **LGPD e ISO/IEC 27001**.
 
+☁️ **Data Governance & Cloud Foundations**
+👉 [Access Repository](https://github.com/igor-it-portfolio/data-governance-cloud-foundations-Project1)
+**Foco:** Implementação de fundamentos de Governança de Dados em ambientes Cloud, explorando gestão de dados sensíveis, classificação da informação, controles de acesso e práticas de conformidade alinhadas à LGPD/GDPR. O projeto demonstra como princípios de **Data Governance, Privacy by Design e Cloud Governance** podem ser aplicados para estruturar ambientes de dados mais seguros, organizados e preparados para requisitos regulatórios.
+
 ⚙️ **Terraform AWS Governance Automation**
 👉 [Access Repository](https://github.com/igor-it-portfolio/terraform-aws-automation)
 **Foco:** Automação de ambientes AWS utilizando Infrastructure as Code (IaC), aplicando padrões de Cloud Governance, organização de recursos, controles de configuração e boas práticas de segurança para ambientes corporativos.
