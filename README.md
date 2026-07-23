@@ -1,91 +1,90 @@
-# 📂 Data Governance, Privacy & Analytics Portfolio
+# 📂 Data Analytics, Data Quality & Governance Portfolio
 
-![Data Governance](https://img.shields.io/badge/Data%20Governance-%23005A9C.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-%23005A9C.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Data Quality](https://img.shields.io/badge/Data%20Quality-%2332CD32.svg?style=for-the-badge&logo=datadog&logoColor=white)
-![BI Analytics](https://img.shields.io/badge/BI%20%26%20Analytics-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI & SQL](https://img.shields.io/badge/BI%20%26%20SQL-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Stewardship](https://img.shields.io/badge/Data%20Stewardship-%23005A9C.svg?style=for-the-badge&logo=dbt&logoColor=white)
 ![Cloud Governance](https://img.shields.io/badge/Cloud%20Governance-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Privacy](https://img.shields.io/badge/Privacy%20(LGPD%2FGDPR)-%23005A9C.svg?style=for-the-badge&logo=privacy&logoColor=white)
 
 ---
 
-# 🛡️ Central Hub | Data Governance & Analytics Portfolio
+# 🛡️ Central Hub | Data Analytics, Quality & Governance Portfolio
 
 ## 🇺🇸 English Version:
 
-This is my central portfolio for **Data Governance, Data Quality, Privacy, Business Intelligence, and Cloud Governance**.
+This is my central portfolio for **Data Analytics, Data Quality, Data Stewardship, Power BI/SQL, and Cloud Governance**.
 
-Here I demonstrate practical approaches to managing trusted data environments, combining **Data Governance frameworks, Data Quality practices, analytics solutions, privacy principles, and cloud-based controls**.
+Here I demonstrate practical approaches to building trusted and analytics-ready data environments, combining **advanced SQL analytics, interactive Power BI dashboards, Data Profiling, DAMA-DMBOK frameworks, privacy principles, and cloud access controls**.
 
-My projects explore the complete data journey — from governance and quality management to analytics, protection, and operational controls — supporting reliable, secure, and data-driven decision-making.
+My projects explore the complete data journey — from data collection, profiling, and quality validation to interactive analytics, protection, and operational infrastructure — supporting reliable and data-driven decision-making.
 
 ---
 
 ## 🇧🇷 Versão em Português:
 
-Este é meu portfólio central de **Governança de Dados, Qualidade de Dados, Privacidade, Business Intelligence e Governança em Nuvem**.
+Este é meu portfólio central de **Análise de Dados, Qualidade de Dados, Data Stewardship, Power BI/SQL e Governança em Nuvem**.
 
-Aqui demonstro aplicações práticas para construção de ambientes de dados confiáveis, combinando **frameworks de Governança de Dados, práticas de Qualidade de Dados, soluções analíticas, princípios de privacidade e controles aplicados a ambientes Cloud**.
+Aqui demonstro aplicações práticas para construção de ambientes de dados confiáveis e prontos para tomada de decisão, combinando **análises avançadas em SQL, painéis interativos em Power BI, Data Profiling, frameworks DAMA-DMBOK, princípios de privacidade e controles de acesso em nuvem**.
 
-Meus projetos exploram toda a jornada do dado — desde governança e qualidade até análise, proteção e controles técnicos — contribuindo para decisões mais seguras, eficientes e orientadas por dados.
+Meus projetos exploram toda a jornada do dado — desde a coleta, validação de regras de qualidade e tratamento até a análise visual, proteção e infraestrutura operacional — contribuindo para decisões estratégicas baseadas em dados seguros e de alta qualidade.
 
 ---
 
 ## 🚀 Specialized Portfolio Areas
 
-### 📊 [1. Data Governance, Data Quality & Metadata](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/1.%20Data%20Governance%2C%20Data%20Quality%20%26%20Metadata)
+### 📈 [1. BI, Data Analytics & Data Quality Insights](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/1.BI%2C%20Data%20Analytics%20%26%20Data%20Quality%20Insights)
 
-**PT-BR:** Frameworks de Governança de Dados, Gestão de Qualidade de Dados, Metadados, Data Ownership, Data Stewardship e Governança do Ciclo de Vida dos Dados.
+**PT-BR:** Business Intelligence (Power BI), Análise de Dados com SQL, Desenvolvimento de KPIs, Métricas de Qualidade dos Dados, Visualização de Dados e Automação de Relatórios.
 
-**EN:** Data Governance frameworks, Data Quality Management, Metadata Management, Data Ownership, Data Stewardship, and Data Lifecycle Governance.
-
----
-
-### ☁️ [2. Cloud Governance, IAM & Data Protection](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/2.Cloud%20Governance%2C%20IAM%20%26%20Data%20Protection)
-
-**PT-BR:** Governança em Nuvem, AWS, Gestão de Identidades (IAM), Controle de Acesso, Proteção de Dados e práticas de privacidade aplicadas a ambientes Cloud.
-
-**EN:** Cloud Governance, AWS environments, Identity and Access Management (IAM), Access Controls, Data Protection, and privacy practices applied to cloud environments.
+**EN:** Business Intelligence (Power BI), SQL Data Analytics, KPI development, Data Quality Metrics, Data Visualization, and Reporting Automation.
 
 ---
 
-### 📈 [3. BI, Data Analytics & Governance Insights](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/3.BI%2C%20Data%20Analytics%20%26%20Governance%20Insights)
+### 📊 [2. Data Quality, Stewardship & Governance](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/2.%20Data%20Quality%2C%20Stewardship%20%26%20Governance)
 
-**PT-BR:** Business Intelligence, Análise de Dados, Desenvolvimento de KPIs, Visualização de Dados, Dashboards e geração de insights para tomada de decisão.
+**PT-BR:** Gestão de Qualidade de Dados, Data Stewardship, Data Profiling, Regras de Validação, Catálogo de Dados, Metadados e Ciclo de Vida da Informação (DAMA-DMBOK).
 
-**EN:** Business Intelligence, Data Analytics, KPI development, Data Visualization, Dashboards, and analytical insights for data-driven decision-making.
+**EN:** Data Quality Management, Data Stewardship, Data Profiling, Validation Rules, Data Cataloging, Metadata Management, and Data Lifecycle Governance (DAMA-DMBOK).
 
 ---
 
-### 🛠️ [4. Technical Foundations & Security Controls](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/4Technical%20Foundations%20%26%20Security%20Controls)
+### ☁️ [3. Cloud Governance, IAM & Data Protection](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/3.Cloud%20Governance%2C%20IAM%20%26%20Data%20Protection)
 
-**PT-BR:** Fundamentos técnicos, automação, Linux, monitoramento, controles de segurança e práticas operacionais que suportam ambientes corporativos de dados.
+**PT-BR:** Governança em Nuvem (AWS), Gestão de Acessos e Identidades (IAM), Criptografia (KMS), Proteção de Dados e Controles de Privacidade (LGPD/GDPR).
 
-**EN:** Technical foundations, automation, Linux, monitoring, security controls, and operational practices supporting enterprise data environments.
+**EN:** Cloud Governance (AWS), Identity and Access Management (IAM), Encryption (KMS), Data Protection, and Privacy Controls (LGPD/GDPR).
+
+---
+
+### 🛠️ [4. Technical Foundations & Security Controls](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/4.Technical%20Foundations%20%26%20Security%20Controls)
+
+**PT-BR:** Automação em Bash Scripting, Linux, Monitoramento de Integridade, Trilhas de Auditoria, Terraform e Confiabilidade de Sistemas de Dados.
+
+**EN:** Bash Scripting Automation, Linux, Integrity Monitoring, Audit Logs, Terraform, and Data System Reliability.
 
 ---
 
 ## 🎯 Objective / Objetivo
 
 **EN:**  
-To demonstrate professional expertise in **Data Governance, Data Quality, Privacy, Business Intelligence, and Cloud Governance**. My portfolio explores how organizations can build trusted data environments by combining governance frameworks, quality practices, analytical solutions, privacy principles, and cloud-based controls. Focused on delivering reliable, secure, and data-driven solutions for modern organizations.
+To demonstrate practical expertise in **Data Analytics, Data Quality, Data Stewardship, Power BI, SQL, and Cloud Governance**. My portfolio shows how modern organizations can build trusted and reliable data ecosystems by integrating SQL queries, Power BI dashboards, quality validation rules, and cloud data protection safeguards.
 
 **PT-BR:**  
-Demonstrar expertise profissional em **Governança de Dados, Qualidade de Dados, Privacidade, Business Intelligence e Governança em Nuvem**. Meu portfólio demonstra como organizações podem construir ambientes de dados confiáveis combinando frameworks de governança, práticas de qualidade, soluções analíticas, princípios de privacidade e controles aplicados a ambientes Cloud. Focado em desenvolver soluções orientadas a dados, seguras e alinhadas às necessidades de negócio.
+Demonstrar expertise prática em **Análise de Dados, Qualidade de Dados, Data Stewardship, Power BI, SQL e Governança em Nuvem**. Meu portfólio apresenta como organizações podem construir ecossistemas de dados confiáveis integrando consultas SQL, dashboards no Power BI, regras de validação de qualidade e controles de proteção de dados em nuvem.
 
 ---
 
 ## 👤 About Me / Sobre Mim
 
 **EN:**  
-**Senior Data Governance & Privacy Analyst** with 6+ years of experience managing information assets, data processes, and governance practices. My background combines **Data Governance, Data Quality, Privacy (LGPD/GDPR), Business Intelligence, and Cloud Governance** to help organizations build trusted and reliable data environments.
+**Data Analyst | Data Quality & Data Steward | BI & Analytics** with 6+ years of experience working with data environments, business requirements, and operational governance. My background combines **SQL Analytics, Power BI Dashboards, Data Profiling, Data Stewardship (DAMA-DMBOK), Privacy (LGPD/GDPR), and Cloud Infrastructure**.
 
-I specialize in structuring data management practices, improving data reliability, applying privacy principles, and transforming business requirements into practical governance solutions supported by analytics and technology.
-
+I specialize in querying and validating data assets, translating complex business rules into interactive dashboards, establishing data quality controls, and ensuring enterprise data is trustworthy, well-structured, and compliant.
 
 **PT-BR:**  
-**Analista Sênior de Governança de Dados & Privacidade** com mais de 6 anos de experiência na gestão de ativos de informação, processos de dados e práticas de governança. Minha trajetória combina **Governança de Dados, Qualidade de Dados, Privacidade (LGPD/GDPR), Business Intelligence e Governança em Nuvem** para apoiar organizações na construção de ambientes de dados confiáveis.
+**Analista de Dados | Qualidade de Dados & Data Steward | BI & Analytics** com mais de 6 anos de experiência atuando com ambientes de dados, regras de negócio e governança operacional. Minha trajetória combina **Análises em SQL, Dashboards no Power BI, Data Profiling, Data Stewardship (DAMA-DMBOK), Privacidade (LGPD/GDPR) e Infraestrutura em Nuvem**.
 
-Minha atuação é voltada para estruturar práticas de gestão de dados, melhorar a confiabilidade das informações, aplicar princípios de privacidade e transformar necessidades de negócio em soluções práticas de governança apoiadas por dados e tecnologia.
+Sou especialista em consultar e validar bases de dados, transformar requisitos de negócio em painéis visuais e interativos, implementar regras de qualidade e garantir que os dados corporativos sejam confiáveis, estruturados e seguros.
 
 ---
 
