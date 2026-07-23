@@ -1,66 +1,47 @@
-# 📊 Data Governance & Data Quality Frameworks
+# 📊 Data Quality, Data Stewardship & Governance Frameworks
 
 **PT-BR:**
+Este repositório é dedicado à aplicação prática de **Qualidade de Dados, Data Stewardship e Governança da Informação** em ambientes corporativos.
 
-Este repositório demonstra a aplicação prática de princípios e práticas de **Governança de Dados e Qualidade de Dados** em ambientes corporativos.
-
-Aqui apresento conceitos e modelos relacionados a **Data Governance Frameworks, Data Ownership, Data Stewardship, Data Lifecycle Management, Metadata Management, Data Classification e Data Quality Management**.
-
-O objetivo é demonstrar como estruturas de governança podem melhorar a **confiabilidade, rastreabilidade, consistência e valor dos dados**, apoiando decisões estratégicas e processos orientados a dados.
-
-Minha abordagem conecta práticas de governança, qualidade de dados e conformidade, utilizando referências como **DAMA-DMBOK, LGPD/GDPR e boas práticas de gestão de dados** para criar ambientes mais organizados, transparentes e confiáveis.
-
+Aqui apresento frameworks práticos, modelos de custódia de dados, catálogos e processos baseados no **DAMA-DMBOK**. O objetivo é demonstrar como estruturar papéis de *Data Owners/Stewards*, criar regras de validação de qualidade, gerenciar metadados e implementar ciclo de vida dos dados para construir bases de dados transparentes, confiáveis e prontas para uso analítico.
 
 **EN:**
+This repository is dedicated to the practical application of **Data Quality, Data Stewardship, and Information Governance** in enterprise data environments.
 
-This repository demonstrates the practical application of **Data Governance and Data Quality principles** in enterprise data environments.
-
-It covers concepts and frameworks related to **Data Governance, Data Ownership, Data Stewardship, Data Lifecycle Management, Metadata Management, Data Classification, and Data Quality Management**.
-
-The goal is to demonstrate how governance structures improve **data reliability, traceability, consistency, and business value**, enabling better decision-making through trusted data.
-
-My approach combines governance practices, data quality management, and compliance principles, using references such as **DAMA-DMBOK, LGPD/GDPR, and data management best practices** to build structured, transparent, and trustworthy data environments.
-
----
-## 🚀 Upcoming Projects & Documentation / Projetos em Desenvolvimento
-
-### 📋 **DATA GOVERNANCE & Privacy** 
-
- **EDCF - Data Custody & Compliance Framework (WORM)** 👉 [[Acesse o Repositório]](https://github.com/igor-it-portfolio/edcf-aws-terraform-compliance)
- *Focus: Data Governance, Data Custody, Data Lifecycle Management, Retention Policies, and Compliance Controls.Framework designed to demonstrate governance controls for protecting critical data assets, ensuring integrity, retention management, traceability, and compliance with privacy requirements such as LGPD. The project explores how governance practices can improve data reliability, accountability, and protection throughout the data lifecycle.
- 
----
-
-## 🛠️ Expertise / Data Governance Domains
-
-- **Data Governance Frameworks:** Data ownership, data stewardship, governance models, roles and responsibilities for managing enterprise data assets.
-- **Data Quality Management:** Data quality dimensions, validation rules, data profiling, monitoring indicators, and continuous improvement processes.
-- **Data Lifecycle Governance:** Management of data from collection, processing, usage, storage, sharing, and secure disposal.
-- **Metadata & Data Classification:** Organization, categorization, and understanding of data assets to improve transparency and discoverability.
-- **Privacy & Compliance Foundations:** Application of LGPD/GDPR principles and governance controls to support responsible data management.
-
-
-### 🎯 Key Focus Areas / Áreas de Foco:
-
-* **Data Governance Operating Models:** Establishing processes, responsibilities, and standards to manage data effectively.
-
-* **Data Quality Frameworks:** Defining rules, metrics, and controls to improve accuracy, completeness, consistency, and reliability of data.
-
-* **Data Lifecycle Management:** Ensuring proper governance throughout the entire data journey.
-
-* **Trusted Data Environments:** Building structured and reliable data ecosystems to support analytics and business decisions.
+Here I present practical frameworks, data custody models, cataloging practices, and workflows based on **DAMA-DMBOK**. The goal is to demonstrate how to structure *Data Owner/Steward* roles, define data quality validation rules, manage metadata, and enforce data lifecycle policies to build transparent, reliable, and analytics-ready data environments.
 
 ---
 
+## 🚀 Projects & Practical Frameworks / Projetos e Frameworks Práticos
 
-## 🎯 Strategic Objective / Objetivo Estratégico
+### 📋 [EDCF - Data Custody & Compliance Framework (WORM)](https://github.com/igor-it-portfolio/Data-Governance-Privacy-Analytics-Portfolio/tree/main/1.%20Data%20Governance%2C%20Data%20Quality%20%26%20Metadata)
 
-**EN:**  
-To establish practical Data Governance and Data Quality practices that improve data reliability, transparency, and business value, enabling organizations to make trusted, data-driven decisions.
+> **Focus:** *Data Stewardship, Data Custody, Quality Control, Data Lifecycle Management, Retention Policies, and LGPD/GDPR Compliance.*
 
 **PT-BR:**  
-Implementar práticas de Governança de Dados e Qualidade de Dados que aumentem a confiabilidade, transparência e valor das informações, permitindo decisões estratégicas baseadas em dados confiáveis.
+Framework desenvolvido para demonstrar controles operacionais de governança e qualidade no gerenciamento de ativos de dados críticos. Explora a aplicação de retenção de dados imutável (WORM), rastreabilidade, ciclo de vida e definição de responsabilidades de custódia para garantir a integridade, acurácia e conformidade com requisitos de privacidade.
+
+**EN:**  
+Framework developed to demonstrate operational governance and data quality controls for managing critical data assets. It explores immutable data retention (WORM), traceability, lifecycle enforcement, and data custody roles to ensure integrity, accuracy, and compliance with privacy mandates (LGPD/GDPR).
 
 ---
 
+## 🛠️ Data Stewardship & Quality Domains / Domínios de Atuação
+
+* **Data Quality Management:** Regras de validação, dimensões de qualidade (Acurácia, Completude, Consistência), Data Profiling e indicadores de monitoramento.
+* **Data Stewardship & Operations:** Definição de papéis (*Data Owners* e *Data Stewards*), catálogo de dados, linhagem (*data lineage*) e dicionário de dados.
+* **Data Lifecycle Governance:** Gestão completa do ciclo de vida da informação (coleta, armazenamento, uso, retenção, arquivamento e descarte seguro).
+* **Metadata & Classification:** Categorização de ativos de informação, taxonomia e classificação de sensibilidade de dados (LGPD/GDPR).
+
+---
+
+## 🎯 Key Strategic Pillars / Pilares Estratégicos
+
+- **Data Trust & Reliability:** Construção de bases limpas e auditáveis que sustentam análises de BI e tomadas de decisão.
+- **Operational Stewardship:** Governança orientada à prática do dia a dia da engenharia e análise de dados.
+- **Regulatory Alignment:** Incorporação de princípios de privacidade e retenção de dados desde a origem (*Privacy & Governance by Design*).
+
+---
+
+[⬅️ Back to Central Hub](../)
 [⬅️ Back to Central Hub](../)
